@@ -14,7 +14,7 @@ from discord.ext import commands
 from discord.ext.commands import bot
 
 
-TOKEN = "OTYzMTU2OTk0OTU1NTc1MzE2.YlR_2g.ypyriJB87mAeUo9jCIqcyzDhRd4"
+TOKEN = "token"
 client = discord.Client()
 
 
